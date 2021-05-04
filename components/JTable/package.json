@@ -10,5 +10,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:mohamadrezahedayati/medium-reusable-vue-components.git"
-  }
+  },
+  "gitHead": "6618b610621cb1440808f4b183f2c1ee818e0952"
 }
