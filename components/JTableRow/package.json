@@ -1,7 +1,7 @@
 {
-    "name": "@mohamad-org/j-table-row",
-    "version": "0.0.0",
-    "publishConfig": {
-      "access": "public"
-    }
+  "name": "@mohamad-org/j-table-row",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
   }
+}
