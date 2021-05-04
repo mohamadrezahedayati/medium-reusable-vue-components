@@ -3,5 +3,9 @@
   "version": "0.0.1",
   "publishConfig": {
     "access": "public"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "git@github.com:mohamadrezahedayati/medium-reusable-vue-components.git"
   }
 }
