@@ -1,11 +1,11 @@
 {
   "name": "@mohamad-org/j-table",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@mohamad-org/j-table-row": "^0.1.0"
+    "@mohamad-org/j-table-row": "^0.1.1"
   },
   "repository": {
     "type": "git",
