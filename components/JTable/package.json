@@ -1,14 +1,14 @@
 {
   "name": "@mohamad-org/j-table",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@mohamad-org/j-table-row": "^0.0.1"
+    "@mohamad-org/j-table-row": "^0.1.0"
   },
-  "repository" : {
-    "type" : "git",
+  "repository": {
+    "type": "git",
     "url": "git@github.com:mohamadrezahedayati/medium-reusable-vue-components.git"
   }
 }
